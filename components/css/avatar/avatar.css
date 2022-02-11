@@ -1,0 +1,22 @@
+
+.avatar{
+    border-radius:50%;
+    width:48px;
+    height:48px;
+    object-fit: cover;
+}
+.avatar-sm{
+    width:32px;
+    height:32px;
+}
+.avatar-md{
+    width:64px;
+    height:64px;
+}
+.avatar-lg{
+    width:96px;
+    height:96px;
+}
+.avatar-square{
+    border-radius:5px;
+}
